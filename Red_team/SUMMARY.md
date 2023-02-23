@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Active Directory](README.md)
+  * [Overview](active-directory/overview.md)
+  * [How AD works ?](active-directory/how-ad-works/README.md)
+    * [AD protocols](active-directory/how-ad-works/ad-protocols/README.md)
+      * [Kerberos authentification protocol](active-directory/how-ad-works/ad-protocols/kerberos-authentification-protocol.md)
+      * [NTLM authentification protocol](active-directory/how-ad-works/ad-protocols/ntlm-authentification-protocol.md)
+      * [LDAP](active-directory/how-ad-works/ad-protocols/ldap.md)
+      * [DNS](active-directory/how-ad-works/ad-protocols/dns.md)
+    * [Users](active-directory/how-ad-works/users/README.md)
+      * [User and machine account](active-directory/how-ad-works/users/user-and-machine-account/README.md)
+        * [Local accounts](active-directory/how-ad-works/users/user-and-machine-account/local-accounts.md)
+        * [Domain users](active-directory/how-ad-works/users/user-and-machine-account/domain-users.md)
+        * [Domain-joined & non-domain joined](active-directory/how-ad-works/users/user-and-machine-account/domain-joined-and-non-domain-joined.md)
+      * [Groupes](active-directory/how-ad-works/users/groupes.md)
