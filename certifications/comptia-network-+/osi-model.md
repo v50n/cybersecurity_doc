@@ -1,12 +1,14 @@
 # OSI Model
 
-The OSI have 7 layers. It works with the encapsulation from layer 7 to layer 1, it will transfer by other network and de-encapsule from layer 1 to layer 7
+The OSI have 7 layers. It works with the encapsulation from layer 7 to layer 1, it will transfer by other network and de-encapsule from layer 2 to layer 7
+
+## 7 layers
 
 | Layer | Name         | What is this in the real world                                 |
 | ----- | ------------ | -------------------------------------------------------------- |
 | 7     | Application  | Your eyes                                                      |
 | 6     | Presentation | Applications encryption (SSL/TLS)                              |
-| 5     | Session      | Control protocols, tunneling protocols                         |
+| 5     | Session      | Control protocols, tunneling protocols (SSH)                   |
 | 4     | Transport    | TCP,UDP                                                        |
 | 3     | Network      | IP Address, <mark style="color:red;">**Router**</mark>, Packet |
 | 2     | Data link    | Address MAC, <mark style="color:red;">**Switch**</mark>        |
