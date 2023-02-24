@@ -8,6 +8,8 @@
     * [Trojan and rat](comptia-security-+/malware/trojan-and-rat.md)
     * [Rootkits](comptia-security-+/malware/rootkits.md)
     * [Spyware](comptia-security-+/malware/spyware.md)
+    * [Bots and Botnets](comptia-security-+/malware/bots-and-botnets.md)
+  * [Logic bombs](comptia-security-+/logic-bombs.md)
 * [Comptia Network +](comptia-network-+/README.md)
   * [OSI Model](comptia-network-+/osi-model/README.md)
     * [Encapsulation and decapsulation](comptia-network-+/osi-model/encapsulation-and-decapsulation.md)
