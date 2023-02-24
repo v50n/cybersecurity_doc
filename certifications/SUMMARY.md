@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Comptia security +](README.md)
+  * [Phishing](comptia-security-+/phishing.md)
+  * [Malware](comptia-security-+/malware/README.md)
+    * [Virus and worms](comptia-security-+/malware/virus-and-worms.md)
 * [Comptia Network +](comptia-network-+/README.md)
   * [OSI Model](comptia-network-+/osi-model/README.md)
     * [Encapsulation and decapsulation](comptia-network-+/osi-model/encapsulation-and-decapsulation.md)

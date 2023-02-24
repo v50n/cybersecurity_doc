@@ -17,7 +17,7 @@ So what is the **hypervisor** ?
 * &#x20;It can manage the hardware like : CPU, Networking,Security of each virtual machine
 * All in one screen
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Virtual Network
 2. Virtual Machine
