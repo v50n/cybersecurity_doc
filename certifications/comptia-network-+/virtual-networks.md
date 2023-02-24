@@ -39,4 +39,4 @@ So what is the **hypervisor** ?
 
 In order to communicate with the internet, we need the vNIC
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
