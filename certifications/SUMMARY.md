@@ -14,6 +14,8 @@
     * [Password attacks](comptia-security-+/differents-mode-attacks/password-attacks.md)
     * [Physical Attacks](comptia-security-+/differents-mode-attacks/physical-attacks.md)
     * [AI Attack](comptia-security-+/differents-mode-attacks/ai-attack.md)
+    * [Supply chain Attacks](comptia-security-+/differents-mode-attacks/supply-chain-attacks.md)
+    * [Cloud-based & On-Premises Attacks](comptia-security-+/differents-mode-attacks/cloud-based-and-on-premises-attacks.md)
 * [Comptia Network +](comptia-network-+/README.md)
   * [OSI Model](comptia-network-+/osi-model/README.md)
     * [Encapsulation and decapsulation](comptia-network-+/osi-model/encapsulation-and-decapsulation.md)
