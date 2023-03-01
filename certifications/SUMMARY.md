@@ -65,6 +65,7 @@
     * [5.3 Organizational Security Policies](comptia-security-+/5-governance-risk-and-compliance/5.3-organizational-security-policies.md)
     * [5.4 Risk Management](comptia-security-+/5-governance-risk-and-compliance/5.4-risk-management.md)
     * [5.5 Data Privacy](comptia-security-+/5-governance-risk-and-compliance/5.5-data-privacy.md)
+  * [Study case](comptia-security-+/study-case.md)
 * [Comptia Network +](comptia-network-+/README.md)
   * [OSI Model](comptia-network-+/osi-model/README.md)
     * [Encapsulation and decapsulation](comptia-network-+/osi-model/encapsulation-and-decapsulation.md)
