@@ -33,7 +33,7 @@ So what is the **hypervisor** ?
   * Netflow
 * Quick deploy or remove with  the hypervisor
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Virtual Network Interface Card (vNIC)
 
